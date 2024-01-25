@@ -33,7 +33,7 @@ defmodule XmlRpc.Mixfile do
   defp deps do
     [   {:earmark, "~> 1.0", only: :docs},
         {:ex_doc, "~> 0.14", only: :docs},
-        {:erlsom, "~> 1.4"},
+        {:erlsom, "~> 1.5"},
     ]
   end
 
