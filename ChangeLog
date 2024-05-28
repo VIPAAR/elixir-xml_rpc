@@ -1,3 +1,5 @@
+1.2.0
+==========
 2024-05-28  Marcus Dillavou  <marcus.dillavou@helplightning.com>
 	* SE-728 - Upgrade xmlrpc Elixir/Erlang to OTP 26.1 / Elixir 1.15
 
